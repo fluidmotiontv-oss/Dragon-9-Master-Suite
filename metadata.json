@@ -1,0 +1,6 @@
+{
+  "name": "Dragon 9 Master Suite",
+  "description": "Master Server Command Center & Media OS featuring System Gauges, Bootstrap Script Manager, ISP Diagnostics & Tunnels, ADB Phone Flasher, Neural AI Assistant, and Synthwave Arcade OS.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
